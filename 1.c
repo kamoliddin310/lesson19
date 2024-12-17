@@ -2,6 +2,8 @@
 #include<string.h>
 
 int main(){
+    printf("salomlar");
 
     return 0;
+
 }
